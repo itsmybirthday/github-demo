@@ -1,0 +1,1 @@
+Primer texto para mostrar en pantalla, aunque realmente lo meteremos a continuacion a un txt llamado primertexto
